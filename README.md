@@ -29,40 +29,49 @@ AI/ML and full-stack applications.
 
 ## Tech Stack
 
-### Languages & Web
+### Languages
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
 
 ### Backend & APIs
 
-![Django](https://img.shields.io/badge/Django-FF69B4?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF69B4?style=for-the-badge&logo=django&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
 ### AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF69B4?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF69B4?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Testing & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytest,git,github,docker,redis" />
+</p>
+
+### AI / LLM Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 `Machine Learning` `Deep Learning` `NLP` `Generative AI` `LLMs` `RAG` `Prompt Engineering`
-
-### Databases, Testing & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-FF69B4?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF69B4?style=for-the-badge&logo=redis&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white)
-
 ---
 
 ## Featured Projects
@@ -97,7 +106,7 @@ RAG-based meeting assistant for transcription, summaries, action items and conve
 
 **Tech:** `Python` `Whisper` `LangChain` `Mistral AI` `ChromaDB` `RAG` `Streamlit`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge)](https://ai-video-assistant-1-7zar.onrender.com)
+
 
 ---
 
@@ -107,7 +116,7 @@ LSTM-based application for predicting vehicle CO₂ emissions from telematics da
 
 **Tech:** `Python` `TensorFlow` `Pandas` `NumPy` `Streamlit`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge)](https://co2-emission-prediction-jhansi.streamlit.app/)
+
 
 ---
 
