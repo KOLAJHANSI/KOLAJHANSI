@@ -8,14 +8,14 @@ Computer Science graduate specializing in Artificial Intelligence & Machine Lear
 with hands-on experience in Python, backend development, REST APIs, databases,
 AI/ML and full-stack applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-KOLAJHANSI-181717?style=for-the-badge&logo=github)](https://github.com/KOLAJHANSI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhansi-kola-15713b356)
+[![GitHub](https://img.shields.io/badge/GitHub-KOLAJHANSI-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KOLAJHANSI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhansi-kola-15713b356)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — AI & ML
 - 🐍 Focused on **Python, Backend Development and REST APIs**
@@ -27,79 +27,94 @@ AI/ML and full-stack applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Web
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & APIs
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-FF69B4?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF69B4?style=for-the-badge&logo=django&logoColor=white)
 
 ### AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF69B4?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF69B4?style=for-the-badge)
 
 `Machine Learning` `Deep Learning` `NLP` `Generative AI` `LLMs` `RAG` `Prompt Engineering`
 
 ### Databases, Testing & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-FF69B4?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF69B4?style=for-the-badge&logo=redis&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 ### ⚡ Smart API Reliability Platform
+
 Full-stack platform for API health monitoring, reliability metrics, incident tracking and AI-powered analysis.
 
 **Tech:** `Python` `Django` `DRF` `React` `MySQL` `Redis` `Docker` `Pytest`
 
+---
+
 ### 🛒 ShopKart
+
 Full-stack e-commerce application with REST APIs, product management, cart and order workflows.
 
 **Tech:** `Python` `FastAPI` `MySQL` `SQLAlchemy` `JavaScript`
 
+---
+
 ### 🔎 Multi-Agent Web Research System
+
 Multi-agent research application using Search, Reader, Writer and Critic agents to collect and evaluate web information.
 
 **Tech:** `Python` `LangChain` `Groq` `Streamlit` `DDGS`
 
+---
+
 ### 🎥 AI Video Assistant
+
 RAG-based meeting assistant for transcription, summaries, action items and conversational Q&A over video content.
 
 **Tech:** `Python` `Whisper` `LangChain` `Mistral AI` `ChromaDB` `RAG` `Streamlit`
 
-🌐 [Live Demo](https://ai-video-assistant-1-7zar.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge)](https://ai-video-assistant-1-7zar.onrender.com)
+
+---
 
 ### 🚗 Vehicle CO₂ Emission Prediction
+
 LSTM-based application for predicting vehicle CO₂ emissions from telematics data with interactive visualizations.
 
 **Tech:** `Python` `TensorFlow` `Pandas` `NumPy` `Streamlit`
 
-🌐 [Live Demo](https://co2-emission-prediction-jhansi.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge)](https://co2-emission-prediction-jhansi.streamlit.app/)
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Python & AI Intern — Coincent**  
+### Python & AI Intern — Coincent
+
 *Aug 2024 – Oct 2024*
 
 Worked with Python, Machine Learning and Artificial Intelligence, including
@@ -107,32 +122,36 @@ data preprocessing, feature engineering and model training.
 
 ---
 
-## 🧠 Currently Improving
+## Currently Improving
 
 `Python` • `DSA` • `Backend Development` • `API Testing` • `FastAPI`
 • `Django` • `AI/ML` • `LLM Applications` • `RAG`
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Getting Started with Artificial Intelligence** — IBM SkillsBuild
 - **Introduction to Generative AI** — AWS
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jhansi-kola-15713b356)
+<div align="center">
 
-🐙 **GitHub:** [KOLAJHANSI](https://github.com/KOLAJHANSI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhansi-kola-15713b356)
 
-📧 **Email:** [jhansikola28@gmail.com](mailto:jhansikola28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KOLAJHANSI-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KOLAJHANSI)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhansikola28@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 Build • Learn • Improve • Repeat
+### Build • Learn • Improve • Repeat
 
 </div>
