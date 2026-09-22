@@ -1,6 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=80&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jhansi+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=100&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jhansi+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 
 ### Aspiring Software Engineer | Python Developer | AI & ML Enthusiast
 
